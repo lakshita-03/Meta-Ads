@@ -68,5 +68,8 @@ The `remove_from_cart` event is treated as a **behavioral friction signal** rath
 
 These metrics enable both high-level funnel analysis and granular session-level behavioral investigation, forming the foundation for SQL aggregation, Python-based pattern analysis, and optional predictive modeling.
 
-
+------------------------------------------------------------------------------------------------------------------------------
+Meta Ads Performance, Audience & Targeting Effectiveness Analysis
+using SQL & Power BI
+Digital marketing teams need more than surface-level metrics to optimize advertising performance. This project performs an in-depth analysis of Meta advertising data by combining campaign metadata, ad targeting information, user demographics, and event-level interaction data. The objective is to evaluate campaign effectiveness, user engagement patterns, targeting alignment, platform performance, and conversion behavior to identify optimization opportunities and reduce inefficient ad spend.
   
