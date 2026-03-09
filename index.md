@@ -4,12 +4,12 @@
 
 **Meta Ads** are digital advertisements placed across **Facebook, Instagram, Messenger,** and the Audience Network, allowing businesses to target users based on demographics, interests, and behavior. Formerly known as Facebook Ads, this system uses data-driven, highly customizable ad formats like videos, images, and carousels to increase brand awareness, website traffic, and sales. 
 
-### Project Overview
+## Project Overview
 - This project focuses on analyzing social media advertising campaign performance using SQL and Power BI. The dataset contains information about ad campaigns, individual advertisements, user demographics, and user interaction events such as views and clicks. 
 - The objective of the project is to explore how different advertising strategies perform across platforms like Facebook and Instagram. 
 - By combining campaign data, advertisement details, and user interaction events, the project aims to uncover insights related to audience targeting, engagement patterns, and campaign effectiveness. The analysis is performed using SQLite for data cleaning and analytical queries, and Power BI for interactive dashboards and visualization of key marketing insights.
 
-### Data Sources
+## Data Sources
 The [dataset](https://drive.google.com/drive/folders/1kiJFKdE6Lk-k4UlVS50GkrtcMJjnL_w1) used in this project is a simulated digital advertising dataset designed to represent advertising campaigns running on social media platforms such as Facebook and Instagram. The data contains information about ad campaigns, individual ads, user demographics, and user interactions with advertisements.
 The dataset is organized into four CSV files that represent different entities within a marketing campaign ecosystem. These files were imported into SQl, Excel,Power BI and used for data cleaning, SQL analysis, and visualization.
 
@@ -52,21 +52,20 @@ This dataset contains demographic and interest information about users who inter
 * location – city or region of the user
 * interest – user’s primary interest category
 
-### Data Cleaning and Processing
+## Data Cleaning and Processing
 Before performing SQL analysis, the raw data was cleaned and prepared using Microsoft Excel Power Query to ensure accuracy, consistency, and usability for further analysis.
 #### 1. ad_events.csv
-#### **Raw Data**
-<img src="pictures/ads_uncleaned.png" alt="banner" width="100%">
-
-#### Cleaned Data
-<img src="pictures/ads_cleaned.png" alt="banner" width="100%">
-
-#### 2. ad.csv
 #### **Raw Data**
 <img src="pictures/ads1_un.png" alt="banner" width="100%">
 
 #### Cleaned Data
 <img src="pictures/ads1_c.png" alt="banner" width="100%">
+
+#### 2. ad.csv
+<img src="pictures/ads_uncleaned.png" alt="banner" width="100%">
+
+#### Cleaned Data
+<img src="pictures/ads_cleaned.png" alt="banner" width="100%">
 
 #### 3. campaign.csv
 #### **Raw Data**
@@ -81,5 +80,23 @@ Before performing SQL analysis, the raw data was cleaned and prepared using Micr
 
 #### Cleaned Data
 <img src="pictures/user_clean_1.png" alt="banner" width="100%">
+
+## Database Schema
+
+After data cleaning, the datasets were imported into a SQLite database for relational analysis. The database consists of four tables representing different components of a digital advertising system.
+
+* **campaigns** – Contains campaign-level information such as campaign name, duration, and budget.
+* **ads** – Stores details about individual advertisements, including platform, ad type, and targeting attributes.
+* **users** – Contains demographic information about users who interacted with advertisements.
+* **ad_events** – Records user interactions with ads such as views, clicks, or engagements along with timestamps.
+
+These tables are connected through unique identifiers:
+
+* `campaign_id` links **ads** to **campaigns**
+* `ad_id` links **ad_events** to **ads**
+* `user_id` links **ad_events** to **users**
+
+This relational structure enables deeper analysis of campaign performance, audience engagement, and targeting effectiveness.
+
 
 
