@@ -1,6 +1,6 @@
 # Meta Ads Performance Analytics
 
-<img src="pictures/fb-ad-format.png" alt="banner" width="35%"><img src="pictures/meta_ads.webp" alt="banner" width="35%">   
+<img src="pictures/fb-ad-formats.png" alt="banner" width="35%"><img src="pictures/meta_ads.webp" alt="banner" width="35%">   
 
 **Dark patterns** in e-commerce are deceptive user interface designs that manipulate shoppers into making unintended purchases or sharing more data, using tactics like false urgency (countdown timers), basket sneaking (adding items to cart), confirm shaming (guilt-tripping opt-outs), subscription traps (hard-to-cancel free trials), hidden costs (drip pricing), and disguised ads, all designed to boost company profits at consumer expense, leading to increased regulatory scrutiny and consumer awareness efforts. 
 
