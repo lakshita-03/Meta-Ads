@@ -130,11 +130,11 @@ Most users interact with ads at the impression and click stages, but only a smal
 
 ### c. Budget Normalization (Events per Budget Unit)
 <img src="pictures/camp_4.png" alt="banner" width="65%">
-<br>
-<img src="pictures/camp_5.png" alt="banner" width="65%">
 
+<img src="pictures/camp_5_gptexp.png" alt="banner" width="65%">
 
-
+### Overall Insight
+Campaign-level comparison of total events and allocated budget reveals variations in engagement efficiency. Some campaigns generate high interaction volumes despite moderate budgets, while others show limited engagement relative to their spending, indicating potential optimization opportunities.
 
 
 The analysis focused on several key areas:
