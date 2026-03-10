@@ -181,10 +181,10 @@ Ad targeting alignment analysis reveals that while certain interest-based segmen
 
 ### 6. Time-Based & Behavioral Patterns
 ### a. Day-of-Week Engagement
-<img src="pictures/day_of_engage.png" alt="banner" width="65%">
+<img src="pictures/day_of engage.png" alt="banner" width="65%">
 
 ### b. Time-of-Day Engagement Analysis
-<img src="pictures/day_of_engage 2.png" alt="banner" width="65%">
+<img src="pictures/day_of engage 2.png" alt="banner" width="65%">
 
 ### c. Conversion Timing Analysis
 <img src="pictures/time of day analysis.png" alt="banner" width="65%">
