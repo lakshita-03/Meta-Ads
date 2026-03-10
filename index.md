@@ -193,7 +193,7 @@ Ad targeting alignment analysis reveals that while certain interest-based segmen
 Time-based behavioral analysis indicates that both engagement and conversion activity vary significantly across days of the week and times of day. Identifying peak responsiveness periods enables more efficient ad scheduling and improved campaign performance.
 
 ## Interactive Visualizations & Dashboard
-<iframe title="Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzdiMzI3ODktNzM1NS00ZDliLTk2M2QtMjljYmE5YzAwYjQ4IiwidCI6IjY1MTBmNjlkLWMzZjUtNDIxZi04ZGZlLWUxZDJiYzk3ZjI3NSJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Dashboard" width="1000" height="500" src="https://app.powerbi.com/view?r=eyJrIjoiYzdiMzI3ODktNzM1NS00ZDliLTk2M2QtMjljYmE5YzAwYjQ4IiwidCI6IjY1MTBmNjlkLWMzZjUtNDIxZi04ZGZlLWUxZDJiYzk3ZjI3NSJ9" frameborder="0" allowFullScreen="true"></iframe>
 <br>
 
 ## Key Insights
