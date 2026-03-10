@@ -176,6 +176,24 @@ Audience and demographic analysis reveals that engagement and conversion behavio
 ### b. Mismatch Detection Between Target Interest and User Interest
 <img src="pictures/mismatch.png" alt="banner" width="65%">
 
+### Overall Insight
+Ad targeting alignment analysis reveals that while certain interest-based segments perform well, several ads engage users outside their intended interest categories. This mismatch indicates opportunities to refine targeting strategies and improve relevance, thereby reducing inefficient ad spend.
+
+### 6. Time-Based & Behavioral Patterns
+### a. Day-of-Week Engagement
+<img src="pictures/day_of_engage.png" alt="banner" width="65%">
+
+### b. Time-of-Day Engagement Analysis
+<img src="pictures/day_of_engage 2.png" alt="banner" width="65%">
+
+### c. Conversion Timing Analysis
+<img src="pictures/time of day analysis.png" alt="banner" width="65%">
+
+### Overall Insight
+Time-based behavioral analysis indicates that both engagement and conversion activity vary significantly across days of the week and times of day. Identifying peak responsiveness periods enables more efficient ad scheduling and improved campaign performance.
+
+
+
 
 
 
