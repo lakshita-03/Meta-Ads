@@ -192,22 +192,34 @@ Ad targeting alignment analysis reveals that while certain interest-based segmen
 ### Overall Insight
 Time-based behavioral analysis indicates that both engagement and conversion activity vary significantly across days of the week and times of day. Identifying peak responsiveness periods enables more efficient ad scheduling and improved campaign performance.
 
+## Interactive Visualizations & Dashboard
+<iframe title="Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzdiMzI3ODktNzM1NS00ZDliLTk2M2QtMjljYmE5YzAwYjQ4IiwidCI6IjY1MTBmNjlkLWMzZjUtNDIxZi04ZGZlLWUxZDJiYzk3ZjI3NSJ9" frameborder="0" allowFullScreen="true"></iframe>
+<br>
 
+## Key Insights
+**1. Platform Performance Differences**
+The analysis showed noticeable differences in engagement levels across advertising platforms. Certain platforms generated higher interaction volumes, indicating that platform selection plays an important role in campaign reach and engagement.
 
+**2. Campaign-Level Performance Variation**
+Not all campaigns performed equally. Some campaigns generated significantly higher user interactions and engagement events, while others produced comparatively lower engagement despite running during similar time periods. This suggests that campaign strategy, targeting, or creative content may strongly influence performance.
 
+**3. Audience Demographics Influence Engagement**
+User demographic analysis indicated that engagement patterns varied across different age groups and gender segments. Certain audience segments interacted with advertisements more frequently, highlighting the importance of precise audience targeting in digital marketing campaigns.
 
+**4. Targeting Effectiveness and Audience Alignment**
+By comparing ad targeting parameters with actual user demographics and interests, the analysis revealed cases where ads were reaching audiences outside their intended targeting criteria. This indicates opportunities to improve targeting strategies to ensure ads reach the most relevant audience groups.
 
+**5. Time-Based Interaction Patterns**
+User engagement showed variations across different days of the week and time periods. Certain time slots recorded higher interaction levels, suggesting that campaign scheduling can influence engagement outcomes.
 
+**6. Identification of Underperforming Ads**
+Some advertisements generated high exposure but relatively low engagement events. These ads may require creative adjustments, improved targeting, or budget reallocation to improve overall campaign effectiveness.
 
-The analysis focused on several key areas:
-* Campaign performance analysis
-* Platform-wise ad engagement
-* Audience demographic insights
-* Ad targeting effectiveness
-* User interaction patterns
-* Detection of inefficient ads and engagement gaps
+**7. Opportunities for Campaign Optimization**
+Combining SQL-based analysis with Power BI visualizations allowed identification of trends in user behavior, campaign performance, and audience interaction. These insights can help marketers optimize ad targeting, allocate budgets more effectively, and focus on audience segments that generate higher engagement.
 
-These queries helped uncover meaningful insights about how different campaigns and advertisements perform across platforms and audience segments.
+Overall, the project demonstrates how combining structured SQL analysis with interactive data visualization can provide meaningful insights for improving digital marketing strategies and campaign decision-making.
+
 
 
 
