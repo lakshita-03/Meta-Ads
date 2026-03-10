@@ -99,46 +99,31 @@ This relational structure enables deeper analysis of campaign performance, audie
 SQL was used to perform detailed marketing analytics on the cleaned dataset.
 ### **1. Event Funnel & Engagement Depth Analysis**
 (How users interact with ads across funnel stages)
-1. Overall Funnel Distribution
+### a. Overall Funnel Distribution
 <img src="pictures/ad_eve_1.png" alt="banner" width="65%">
 <br>
 <img src="pictures/ad_eve_2.png" alt="banner" width="65%">
 
-- Groups all ad interaction records by event_type
-- Counts how many times each type of user action occurred
-- Treats each row as one user interaction event
-- Different stages of the advertising funnel, such as:
-    - impression
-    - click
-    - conversion
-#### Insights
-- A large gap between impressions and conversions indicates significant funnel drop-off
-- This highlights areas where optimization is required (creative, targeting, landing page)
-
-### 2. Unique Users per Funnel Stage
+### b. Unique Users per Funnel Stage
 <img src="pictures/ad_eve_3.png" alt="banner" width="65%">
 
-#### Insights
-- If impressions have many users but conversions have very few, it indicates low funnel efficiency
-- Helps assess whether campaigns are driving breadth vs meaningful engagement
-
-### 3. User Drop-Off Analysis (Engagement Depth)
+### c. User Drop-Off Analysis (Engagement Depth)
 <img src="pictures/ad_eve_4.png" alt="banner" width="65%">
 <br>
 <img src="pictures/ad_eve_u.png" alt="banner" width="65%">
 <br>
 <img src="pictures/ad_eve_u_1.png" alt="banner" width="65%">
 
-#### Insights
-- A large gap between impressions and conversions indicates significant funnel drop-off
-- This highlights areas where optimization is required (creative, targeting, landing page)
-
-#### 4. Conversion Depth per Ad
+### d. Conversion Depth per Ad
 <img src="pictures/ad_eve_5.png" alt="banner" width="65%">
 
-#### Insight you can write
-- A small number of ads often drive a majority of conversions
-- Indicates opportunities to reallocate budget toward high-converting creatives
+#### Overall Insight
+Most users interact with ads at the impression and click stages, but only a small fraction progress to conversion. This indicates significant funnel drop-offs, suggesting that while awareness generation is strong, conversion efficiency can be improved through better targeting, creative optimization, or landing page experience.
+
+### 2. Campaign-Level Performance & Budget Efficiency
+### a. Events per Campaign
+<img src="pictures/camp_1.png" alt="banner" width="65%">
+
 
 The analysis focused on several key areas:
 * Campaign performance analysis
