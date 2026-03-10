@@ -160,8 +160,8 @@ Platform performance analysis shows that Facebook and Instagram differ not only 
 <img src="pictures/country_engag.png" alt="banner" width="65%">
 
 ### d. Age and Gender Cross-Analysis
-<img src="pictures/age plus gender.png" alt="banner" width="65>%"
-<img src="pictures/age plus gender_2.png" alt="banner" width="65>%"
+<img src="pictures/age plus gender.png" alt="banner" width="65%">
+<img src="pictures/age plus gender_2.png" alt="banner" width="65%">
 
 ### Overall Insight
 Audience and demographic analysis reveals that engagement and conversion behavior varies across age groups, genders, and geographic regions. Cross-segmentation further highlights specific demographic clusters with higher responsiveness, indicating opportunities for more targeted and efficient advertising strategies.
