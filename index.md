@@ -138,7 +138,11 @@ Campaign-level comparison of total events and allocated budget reveals variation
 
 ### 3. Platform Performance (Facebook vs Instagram)
 ### a. Event Volume by Platform
-<img src="pictures/camp_1.png" alt="banner" width="65%">
+<img src="pictures/performance_1.png" alt="banner" width="65%">
+<img src="pictures/plat_perfor_2.png" alt="banner" width="65%">
+
+### b. Conversion Rate by Platform
+<img src="pictures/plat_perfor_3.png" alt="banner" width="65%">
 
 
 The analysis focused on several key areas:
