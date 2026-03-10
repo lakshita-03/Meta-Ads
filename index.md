@@ -1,6 +1,6 @@
 # Meta Ads Performance Analytics
 
-<img src="pictures/Types-Of-Social-Media-Advertising-And-Meta-Advertising.png" alt="banner" width="45%"> <img src="pictures/meta-ads-creative-best-practices.jpg" alt="banner" width="45%">   
+<img src="pictures/Types-Of-Social-Media-Advertising-And-Meta-Advertising.png" alt="banner" width="55%"> <img src="pictures/meta-ads-creative-best-practices.jpg" alt="banner" width="45%">   
 
 **Meta Ads** are digital advertisements placed across **Facebook, Instagram, Messenger,** and the Audience Network, allowing businesses to target users based on demographics, interests, and behavior. Formerly known as Facebook Ads, this system uses data-driven, highly customizable ad formats like videos, images, and carousels to increase brand awareness, website traffic, and sales. 
 
